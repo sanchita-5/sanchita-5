@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm currently pursuing my **Master of Computer Applications (MCA)** from **Siliguri Institute of Technology**. 
-Previously, I completed my **Bachelor of Science (B.Sc.) in Computer Science** from **Siliguri Government College** and I'm passionate about coding, learning new technologies, and building innovative solutions..
+Previously, I completed my **Bachelor of Science (B.Sc.) in Computer Science** from **Siliguri College** and I'm passionate about coding, learning new technologies, and building innovative solutions..
 
 ## 💻 Skills & Interests
 - Programming Languages: C, C++, Python, Java
