@@ -19,7 +19,5 @@ Previously, I completed my **Bachelor of Science (B.Sc.) in Computer Science** f
 - [LinkedIn](https://www.linkedin.com/in/sanchita-roy-19ba22283/)
 - Email: roysanchita783@gmail.com
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! 😊
